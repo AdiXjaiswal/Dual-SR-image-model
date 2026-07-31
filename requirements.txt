@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+rasterio
+jupyter
+kaggle # for dataset download
