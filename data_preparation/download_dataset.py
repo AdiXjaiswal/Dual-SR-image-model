@@ -7,7 +7,7 @@ Before running this script, create a Kaggle API token:
    C:/Users/<YourUsername>/.kaggle/kaggle.json
 4. Make sure the file permissions allow read access.
 """
-
+    
 from kaggle.api.kaggle_api_extended import KaggleApi
 
 api = KaggleApi()
